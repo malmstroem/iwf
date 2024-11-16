@@ -2,5 +2,9 @@
 name = "iwf"
 version = "0.1.0"
 edition = "2021"
+authors = ["Lars Malmstroem <lars@malmstroem.net>"]
+description = "A hello world application"
+license = "MIT"
+license-file = "LICENSE"
 
 [dependencies]
